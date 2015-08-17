@@ -17,5 +17,5 @@ export const todos = createReducer(initialState, {
     let text = action.text.trim();
     return [...state, text];
   }
-}
+})
 ```
