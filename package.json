@@ -1,0 +1,24 @@
+{
+  "name": "reflux-create-reducer",
+  "version": "1.0.0",
+  "description": "Quickly create a redux reducer without switch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/reflux-create-reducer.git"
+  },
+  "keywords": [
+    "reflux",
+    "reducer",
+    "switch"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolodny/reflux-create-reducer/issues"
+  },
+  "homepage": "https://github.com/kolodny/reflux-create-reducer#readme"
+}
