@@ -1,6 +1,6 @@
 {
   "name": "reflux-create-reducer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly create a redux reducer without switch",
   "main": "index.js",
   "scripts": {

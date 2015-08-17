@@ -9,7 +9,10 @@ Usage:
 import { createReducer } from 'reflux-create-reducer';
 import * as ActionTypes from '../constants/ActionTypes';
 
-export const todos = createReducer([], {
+const initialState = [];
+
+
+export const todos = createReducer(initialState, {
   [ActionTypes.ADD_TODO](state, action) {
     let text = action.text.trim();
     return [...state, text];
